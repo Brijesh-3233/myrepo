@@ -1,0 +1,4 @@
+app.logs
+secret.json
+
+*.logs
